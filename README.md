@@ -8,9 +8,12 @@ Uygulamanın nasıl göründüğünü aşağıda görebilirsiniz. Kendi ekran g�
 
 | Profil (Üst Kısım) | Profil (Alt Kısım) |
 | :---: | :---: |
-<img width="1080" height="2400" alt="436579163-42297f63-6931-4c0d-9150-fb1b8ce1a5da" src="https://github.com/user-attachments/assets/246750d5-7d66-465e-97a7-7912d75e6fd2" />
-<img width="1080" height="2400" alt="436579146-048ecf6f-ea12-42db-b135-2ca45634c411" src="https://github.com/user-attachments/assets/36073020-716c-43a0-9af2-b9996eeac9dd" />
-<img width="1080" height="2400" alt="436579122-965e4d6c-3d3b-4e3c-9147-36d23fee099a" src="https://github.com/user-attachments/assets/8f21a69c-c6e3-4307-a033-f5b272a9adf7" />
+| <img src="screenshots/436579122-965e4d6c-3d3b-4e3c-9147-36d23fee099a.png" width="300"> | <img src="screenshots/436579146-048ecf6f-ea12-42db-b135-2ca45634c411.png" width="300"> |
+
+<br>
+<p align="center">
+  <img src="screenshots/436579163-42297f63-6931-4c0d-9150-fb1b8ce1a5da.png" width="300">
+</p>
 
 
 ## Özellikler
