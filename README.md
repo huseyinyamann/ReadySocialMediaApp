@@ -4,16 +4,9 @@ Bu proje, Flutter kullanılarak geliştirilmiş modern ve şık bir sosyal medya
 
 ##  Ekran Görüntüleri
 
-Uygulamanın nasıl göründüğünü aşağıda görebilirsiniz. Kendi ekran görüntülerinizi eklemek için `screenshots` klasörüne resimlerinizi yükleyip aşağıdaki linkleri güncelleyebilirsiniz.
-
-| Profil (Üst Kısım) | Profil (Alt Kısım) |
-| :---: | :---: |
-| <img src="screenshots/436579122-965e4d6c-3d3b-4e3c-9147-36d23fee099a.png" width="300"> | <img src="screenshots/436579146-048ecf6f-ea12-42db-b135-2ca45634c411.png" width="300"> |
-
-<br>
-<p align="center">
-  <img src="screenshots/436579163-42297f63-6931-4c0d-9150-fb1b8ce1a5da.png" width="300">
-</p>
+<img src="https://github.com/USERNAME/REPO/blob/main/small_1.png" width="216" height="480" />
+<img src="https://github.com/USERNAME/REPO/blob/main/small_2.png" width="216" height="480" />
+<img src="https://github.com/USERNAME/REPO/blob/main/small_3.png" width="216" height="480" />
 
 
 ## Özellikler
