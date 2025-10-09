@@ -3,9 +3,10 @@
 Bu proje, Flutter kullanılarak geliştirilmiş modern ve şık bir sosyal medya profil sayfası kullanıcı arayüzüdür.
 
 ##  Ekran Görüntüleri
-<img width="300" height="300" alt="436579163-42297f63-6931-4c0d-9150-fb1b8ce1a5da" src="https://github.com/user-attachments/assets/d11f2c71-f367-4433-a949-9fee79b6db61" />
-<img width="300" height="300" alt="436579146-048ecf6f-ea12-42db-b135-2ca45634c411" src="https://github.com/user-attachments/assets/f0abb821-ebab-4d37-ad26-396daf6f1314" />
-<img width="300" height="300" alt="436579122-965e4d6c-3d3b-4e3c-9147-36d23fee099a" src="https://github.com/user-attachments/assets/296d55d1-a8cc-4b6a-bd02-929d506a9412" />
+
+<img width="270" height="600" alt="436579146-048ecf6f-ea12-42db-b135-2ca45634c411" src="https://github.com/user-attachments/assets/d3ada68e-1b74-4389-91b5-19ea7e2114bc" />
+<img width="270" height="600" alt="436579122-965e4d6c-3d3b-4e3c-9147-36d23fee099a" src="https://github.com/user-attachments/assets/8176b0da-8aec-457c-a47e-5bf1701f671f" />
+<img width="270" height="600" alt="436579163-42297f63-6931-4c0d-9150-fb1b8ce1a5da" src="https://github.com/user-attachments/assets/becc077c-782a-42d5-841c-96a6be3f48ed" />
 
 
 ## Özellikler
